@@ -34,7 +34,7 @@ We welcome contributions from the community! If you're interested in collaborati
 
 ## Connect with Us
 
-Aiyz  :  [Github](https://github.com/ayaz-hoon)  | [LindedIn]()
+Aiyaz  :  [Github](https://github.com/ayaz-hoon)  | [LindedIn](https://www.linkedin.com/in/aiyaz-h/)
 
 Atmanand M. Gauns  :  [Github](https://github.com/tu2-atmanand)  |  [LindedIn](https://www.linkedin.com/in/atmanand-gauns-32017520b/)
 
